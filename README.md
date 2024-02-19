@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhat-Minh Ta</h1>
 <h3 align="center">A student at University of Information Technology (UIT), VNU-HCM.</h3>
 
-- 🏫 I’m currently studying at University of Information Technology
+- 🏫 I’m currently studying at University of Information Technology.
 
 - 📖 Know about Recommendation System, Natural Language Preprocessing, Big Data, Deep Learning and Machine Learning.
 
