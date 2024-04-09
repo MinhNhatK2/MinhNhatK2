@@ -7,6 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MinhNhatK2](https://github.com/MinhNhatK2)
 
+- 📄 Know about my experiences [Résumé](https://drive.google.com/file/d/1sqqgAG1_VcLYst_fKA2t70caf8zPkwZW/view?usp=sharing)
+ 
+
 - 📫 How to reach me **minh772k2@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
