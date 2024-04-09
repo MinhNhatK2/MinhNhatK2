@@ -21,7 +21,5 @@
 
 <h3 align="left">My resume:</h3>
 <p align="left">
-<a href="<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/nhatminh.ta.2k2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhatminh.ta.2k2" height="30" width="40" /></a>
+<a href="https://github.com/MinhNhatK2/Resume/blob/main/CV%20-%20T%E1%BA%A1%20Nh%E1%BA%ADt%20Minh%20-%20Data%20Science%20Intern.pdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhatminh.ta.2k2" height="30" width="40" /></a>
 </p>
